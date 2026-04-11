@@ -22,7 +22,9 @@ title: Reilly McDowell Blog(?)
 email: reillysmcdowell@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog for posting about what is going on in my life I suppose.
+  
   I find that writing down my thought process and steps to a result is helpful.
+  
   Whether that's being able to retrace them later or for solidifying them at the time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
