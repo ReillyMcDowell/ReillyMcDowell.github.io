@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm **Reilly McDowell** - Physicist by training (Master of Science from The Ohio State University). 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I find that writing down my reasoning or trying to explain it to others can help my recall and work on a project. I've had scattered notebooks for a long time, but being able to put it online helps with my ability to share my work with others as well as forces me to be more concise in my presentation.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Thank you for your time!
