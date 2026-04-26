@@ -30,6 +30,7 @@ header_pages:
   - index.markdown
   - about.markdown
   - contact.markdown
+  - AirBNB.markdown
   - shortcut_BaseballPitch.markdown
 
 # Build settings
