@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AirBNB
+title: AirBNB Project through Erdős Institute
 permalink: /AirBNB/
 ---
 
@@ -19,6 +19,8 @@ permalink: /AirBNB/
     box-sizing: border-box;
   }
 </style>
+
+[Project completed through Erdős Institute Deep Learning Bootcamp Fall 2025](https://www.erdosinstitute.org/certificates/fall-2025/deep-learning-boot-camp/reilly-mcdowell/cd6af3ec-f30b-42ac-aa00-a9e75ae21bd6)
 
 <div class="full-bleed-iframe">
   <iframe
