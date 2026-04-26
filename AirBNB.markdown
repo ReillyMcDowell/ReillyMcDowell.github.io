@@ -4,7 +4,23 @@ title: AirBNB
 permalink: /AirBNB/
 ---
 
-<div class="iframe-container">
+<style>
+  /* This forces the container to break out of the Jekyll theme's narrow column */
+  .full-bleed-iframe {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    /* Optional: add some padding so it doesn't touch the absolute edges of the monitor */
+    padding-left: 5vw;
+    padding-right: 5vw;
+    box-sizing: border-box;
+  }
+</style>
+
+<div class="full-bleed-iframe">
   <iframe
     src="https://reillymcdowell-airbnb-streamlit.hf.space"
     frameborder="0"
