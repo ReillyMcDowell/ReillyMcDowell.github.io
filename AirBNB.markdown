@@ -6,7 +6,7 @@ permalink: /AirBNB/
 
 <div class="iframe-container">
   <iframe
-    src="https://huggingface.co/spaces/ReillyMcDowell/airbnb_streamlit?embed=true"
+    src="https://reillymcdowell-airbnb-streamlit.hf.space"
     frameborder="0"
     width="100%"
     height="850px"
