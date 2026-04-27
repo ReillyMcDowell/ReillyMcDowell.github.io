@@ -20,9 +20,11 @@ permalink: /AirBNB/
   }
 </style>
 
-# Airbnb Price Recommender
+# Airbnb Price Recommender Project
+
 [Project completed through Erdős Institute Deep Learning Bootcamp Fall 2025](https://www.erdosinstitute.org/certificates/fall-2025/deep-learning-boot-camp/reilly-mcdowell/cd6af3ec-f30b-42ac-aa00-a9e75ae21bd6)
 
+* Do not forget to select left side bar and "Load Listings" button once filters are selected.
 <div class="full-bleed-iframe">
   <iframe
     src="https://reillymcdowell-airbnb-streamlit.hf.space"
@@ -34,7 +36,7 @@ permalink: /AirBNB/
   ></iframe>
 </div>
 
-# Airbnb Price Recommender Description from Project [Github](https://github.com/arvindsuresh-math/AirBnB-Price-Recommender/)
+# Description from Project [Github](https://github.com/arvindsuresh-math/AirBnB-Price-Recommender/)
 
 ## An Interpretable Deep Learning Approach to Price Recommendation
 
