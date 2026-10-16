@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Started in New Lab"
+date:   2026-10-15 15:00:00 -0400
+categories: Lab
+---
+
+I've started in a new lab! I'm working with [Maryam Ghazisaeidi](https://mse.osu.edu/ghazisaeidi-group) currently on NiO and it's dislocations. I'm sure I'll have more to say later but right now I'm just trying to update my blog.
